@@ -18,7 +18,7 @@ msgid "plugins.generic.crossrefReferenceLinking.description"
 msgstr "Questo plugin invia i riferimenti degli articoli a Crossref quando un DOI è registrato e visualizza automaticamente i DOI per i riferimenti trovati nel database di Crossref."
 
 msgid "plugins.generic.crossrefReferenceLinking.description.long"
-msgstr "uesto plugin aggiungerà automaticamente i riferimenti degli articoli estratti alla registrazione DOI con Crossref. Crossref controllerà quindi automaticamente se è possibile trovare un DOI per i riferimenti inviati. Utilizzando l'attività programmata il plugin controllerà poi i DOI dei riferimenti trovati."
+msgstr "Questo plugin aggiungerà automaticamente i riferimenti degli articoli estratti alla registrazione DOI con Crossref. Crossref controllerà quindi automaticamente se è possibile trovare un DOI per i riferimenti inviati. Utilizzando l'attività programmata il plugin controllerà poi i DOI dei riferimenti trovati."
 
 msgid "plugins.generic.crossrefReferenceLinking.description.note"
 msgstr "Se si cambiano i riferimenti di un articolo dopo aver registrato il DOI, è necessario registrare nuovamente il DOI dell'articolo e controllare i DOI dei riferimenti dell'articolo."
